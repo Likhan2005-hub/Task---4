@@ -1,0 +1,19 @@
+Title: Severity & Case Classification Report (Pharmacovigilance Evaluation)
+
+1. Case Scenario Overview:
+* Patient Profile: 45-year-old male experiencing persistent dry cough and mild angioedema following the administration of Enalapril (10 mg daily) for hypertension.
+
+2. Severity Assessment:
+* Classification: Moderate to Severe (due to facial swelling / angioedema risk).
+* Justification: Although a dry cough is generally mild and non-serious, the presence of mild angioedema elevates the reaction's clinical significance, requiring immediate cessation of therapy to prevent airway obstruction.
+
+3. Seriousness Criteria (ICH E2D Guidelines):
+* Is it "Serious"? No (does not result in death, life-threatening immediate hospitalization, persistent disability, or congenital anomaly in this specific controlled scenario), but it is classified as a clinically significant medical event requiring close monitoring.
+
+4. Expectedness Assessment:
+* Classification: Expected ADR
+* Justification: Dry cough and angioedema are well-documented, known class-specific adverse drug reactions associated with ACE inhibitors (due to bradykinin accumulation), as outlined in the reference safety information (RSI).
+
+5. Final Clinical Impact & Conclusion:
+* The reaction is categorized as an **Expected, Moderate-Severity Adverse Drug Reaction**.
+* Recommended Action: Discontinue Enalapril, switch to an alternative class (e.g., Angiotensin II Receptor Blockers / ARBs like Losartan), and document as an adverse event in the pharmacovigilance database.
